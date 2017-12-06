@@ -27,11 +27,13 @@
               {
                 "version_added": "46",
                 "version_removed": "54",
-                "flag": {
-                  "type": "preference",
-                  "name": "javascript.options.shared_memory",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "javascript.options.shared_memory",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -41,11 +43,13 @@
               {
                 "version_added": "46",
                 "version_removed": "54",
-                "flag": {
-                  "type": "preference",
-                  "name": "javascript.options.shared_memory",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "javascript.options.shared_memory",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -102,11 +106,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -116,11 +122,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -178,11 +186,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -192,11 +202,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -254,11 +266,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -268,11 +282,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -330,11 +346,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -344,11 +362,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -406,11 +426,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -420,11 +442,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -482,11 +506,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -496,11 +522,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -558,11 +586,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -572,11 +602,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -634,11 +666,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -648,11 +682,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -710,11 +746,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -724,11 +762,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -786,11 +826,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  },
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ],
                   "notes": " In versions 46 and 47, this method was named <code>Atomics.futexWait()</code> and the properties <code>Atomics.OK</code>, <code>Atomics.TIMEDOUT</code>, <code>Atomics.NOTEQUAL</code> were returned instead of the strings."
                 }
               ],
@@ -801,11 +843,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  },
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ],
                   "notes": " In versions 46 and 47, this method was named <code>Atomics.futexWait()</code> and the properties <code>Atomics.OK</code>, <code>Atomics.TIMEDOUT</code>, <code>Atomics.NOTEQUAL</code> were returned instead of the strings."
                 }
               ],
@@ -865,11 +909,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  },
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ],
                   "notes": " In versions 46 and 47, this method was named <code>Atomics.futexWake()</code> and the <code>count</code> parameter defaulted to <code>0</code>."
                 }
               ],
@@ -880,11 +926,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  },
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ],
                   "notes": " In versions 46 and 47, this method was named <code>Atomics.futexWake()</code> and the <code>count</code> parameter defaulted to <code>0</code>."
                 }
               ],
@@ -943,11 +991,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -957,11 +1007,13 @@
                 {
                   "version_added": "46",
                   "version_removed": "54",
-                  "flag": {
-                    "type": "preference",
-                    "name": "javascript.options.shared_memory",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "javascript.options.shared_memory",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
